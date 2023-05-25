@@ -1,4 +1,4 @@
-# Human Resources -Data Analysis
+# Human Resources - Data Analysis
 
 ![image](https://github.com/rodrigoaqueiroz/Human-Resources-Data-Analysis/assets/60048036/cc8f6028-cf89-4c6d-a428-8a11fc099244)
 ![image](https://github.com/rodrigoaqueiroz/Human-Resources-Data-Analysis/assets/60048036/0b1afd3f-c32e-4f2b-a7e6-9f5844a8cfe7)
