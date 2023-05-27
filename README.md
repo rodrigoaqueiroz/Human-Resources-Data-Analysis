@@ -24,7 +24,7 @@ Data analysis of a HR Dataset from 2000 to 2020.
 
 ### Description
 
-&nbsp;A dataset of HR in the United States of America from the year 2000 to 2020 was used. The SQL cleaning was based on a video by Inere Arch, with some differences. Python cleaning was another tool used to practice and observe the results.
+&nbsp;A dataset of HR in the United States of America from the year 2000 to 2020 was used. The SQL cleaning was based on a video by Inere Arch, with some differences. Python was another tool used to practice and observe the results.
 The challenger has 11 questions to answer (answered an be found in the files) after cleaning the data.
 - What is the gender breakdown of employees in the company?
 - What is the race/ethnicity breakdown of employees in the company?
