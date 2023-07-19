@@ -1,8 +1,9 @@
 # Human Resources - Data Analysis
 
-![image](https://github.com/rodrigoaqueiroz/Human-Resources-Data-Analysis/assets/60048036/cc8f6028-cf89-4c6d-a428-8a11fc099244)
-![image](https://github.com/rodrigoaqueiroz/Human-Resources-Data-Analysis/assets/60048036/0b1afd3f-c32e-4f2b-a7e6-9f5844a8cfe7)
-Data analysis of a HR Dataset from 2000 to 2020.
+![hr1](https://github.com/rodrigoaqueiroz/Human-Resources-Data-Analysis/assets/60048036/1dc4598b-7fb2-4861-b894-2821eae7a035)
+![hr2](https://github.com/rodrigoaqueiroz/Human-Resources-Data-Analysis/assets/60048036/1619c97d-ed2c-481a-b9b9-c0b9cf9bac92)
+
+# Data analysis of a HR Dataset from 2000 to 2020.
 
 ### Sumário
 
