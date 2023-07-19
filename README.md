@@ -51,3 +51,6 @@ The challenger has 11 questions to answer (answered an be found in the files) af
 - The number of employees from Ohio is higher than the combined total from other states.
 - Among all the employees' home states, Wisconsin has the fewest employees.
 - The department with the highest turnover rate is Auditing, while the department with the lowest turnover rate is Marketing.
+
+
+Project inspired by Irene (@herdataproject)
